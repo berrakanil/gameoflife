@@ -1,7 +1,5 @@
 package com.berrakanil.gameoflife;
 
-import com.berrakanil.gameoflife.Cell;
-
 import static java.lang.Thread.sleep;
 
 /**

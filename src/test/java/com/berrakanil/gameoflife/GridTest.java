@@ -1,16 +1,13 @@
-package com.berrakanil.gameoflife; /**
- * Created by Berrak on 21/09/2015.
- */
+package com.berrakanil.gameoflife;
 
-import com.berrakanil.gameoflife.Cell;
-import com.berrakanil.gameoflife.Grid;
 import org.junit.*;
-
 import java.util.ArrayList;
 import java.util.List;
-
 import static junit.framework.Assert.*;
 
+/**
+ * Created by Berrak on 21/09/2015.
+ */
 public class GridTest {
     private final boolean ALIVE = true;
     private final boolean DEAD = false;

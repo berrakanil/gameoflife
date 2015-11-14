@@ -1,11 +1,11 @@
-package com.berrakanil.gameoflife; /**
- * Created by Berrak on 21/09/2015.
- */
-import com.berrakanil.gameoflife.Cell;
-import org.junit.*;
+package com.berrakanil.gameoflife;
 
+import org.junit.*;
 import static junit.framework.Assert.*;
 
+/**
+ * Created by Berrak on 21/09/2015.
+ */
 public class CellTest {
     private static final boolean ALIVE = true;
     private static final boolean DEAD = false;
